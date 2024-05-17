@@ -1,0 +1,45 @@
+Karaoke - kwapp
+Storage: MongoDb -- maybe no storage, scrape videos off youtube
+- search (song name, artist, genre, lyrics)---process query and find on youtube
+Backend: Expressjs
+No user authentication, share url to create room
+
+Frontend: Learn react? Or html, bootstrap-css and javascript
+
+
+As mentioned in the beginning of this project, you have some questions to ask yourself:
+
+    👨‍💻 Solo
+    What do I want to build? Karaoke Web Application
+    How do I want to build it?
+    Is it possible to build it in less than 2 weeks? No
+    Do I like what I’m doing? Love it
+
+When you know these answers, you will have to prepare a pitch:
+
+    Max 10min of pitch (please repeat to not go over)
+    Google slide presentation with:
+        Name of the project
+        List of team members
+        Description of the project
+        Learning objectives
+        Technologies used
+        Third services used if applicable
+        Challenges already identified
+        Schedule of work (by using Trello or Kanban board or other) - don’t forget that you have less then 4 weeks (27 days exactly)
+        Mock-ups if applicable
+    Video Recording of one or more team members presenting the pitch (using the Google Slide presentation)
+
+Please post your slides and the recording to your web-stack portfolio pitch here.
+
+Let’s do it! 💪
+
+Note:
+
+If you are multiple people in your team, decide who is going to do the review.
+
+Go to slack channel #cohort_X_review (your cohort) and look for “Looking for review for webstack portfolio pitch” that has not been replied to. Once you reply to this message you will become each others reviewers. Start a DM with one another. Share the corection link in that DM and review each other.
+
+In case you have not found “Looking for review for webstack portfolio pitch” - then start a new thread with “Looking for review for webstack portfolio pitch” and await a new team to find you.
+
+Happy reviewing!
