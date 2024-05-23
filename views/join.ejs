@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Join Room</title>
+</head>
+<body>
+    <h1>Enter Room</h1>
+    <form action="/room/<%= roomId %>/join" method="post">
+        <label for="name">Enter Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Enter Room</button>
+    </form>
+</body>
